@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #333;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.menu a {
+    text-decoration: none;
+    color: white;
+    margin: 0 20px;
+}
+
+.main {
+    text-align: center;
+    padding: 40px;
+}
+
+.conteudo {
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    padding: 20px;
+    display: inline-block;
+    text-align: left;
+}
